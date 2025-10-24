@@ -50,7 +50,7 @@ nav a {
 }
 
 #hero {
-  background-image: url(/assets/cctv-wall.jpg);
+  background-image: url(assets/cctv-wall.jpg);
   background-size: cover;
   color: white;
   text-align: center;
@@ -114,3 +114,4 @@ footer {
     gap: 0.5rem;
   }
 }
+
